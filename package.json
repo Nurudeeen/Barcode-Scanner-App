@@ -1,0 +1,18 @@
+{
+  "name": "scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-hid": "^2.1.1",
+    "node-hid-stream": "^1.1.0",
+    "stream-read-all": "^3.0.1",
+    "usb-barcode-scanner": "^1.0.2"
+  }
+}
